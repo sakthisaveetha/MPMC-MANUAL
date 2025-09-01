@@ -1,10 +1,10 @@
 # MPMC-MANUAL
-ARITHMETIC OPERATIONS OF 8086
-## ARITHMETIC OPERATIONS USING 8086 MICROPROCESSORS
+
+
 
 ## 
 
-##### EX NO: 1 DATE:
+##### EX NO: 1 ## ARITHMETIC OPERATIONS USING 8086 MICROPROCESSORS
 
 > **AIM:** To write and execute Assembly language Program to perform
 > arithmetic operations for 8086 microprocessor.
